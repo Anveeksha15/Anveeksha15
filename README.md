@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Anveeksha Jangid</h1>
 <h3 align="center">AI Engineer • LLM Developer • Undergraduate at IIIT Nagpur</h3>
 
