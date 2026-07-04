@@ -110,18 +110,6 @@ Generate realistic interview questions using LLMs.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anveeksha15&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anveeksha15&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 📫 Connect With Me
 
 📧 anveeksha15@gmail.com
