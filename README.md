@@ -122,16 +122,6 @@ Generate realistic interview questions using LLMs.
 
 ---
 
-## 🔥 Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anveeksha15&theme=tokyonight"/>
-
-</p>
-
----
-
 ## 📫 Connect With Me
 
 📧 anveeksha15@gmail.com
