@@ -8,18 +8,18 @@ Building AI applications with LLMs, RAG, LangChain, and Python.
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-🤖 Passionate about
+ Passionate about
 - Large Language Models (LLMs)
 - Retrieval-Augmented Generation (RAG)
 - Agentic AI
 - Generative AI
 - Machine Learning
 
-💡 I enjoy turning AI ideas into practical applications that solve real-world problems.
+ I enjoy turning AI ideas into practical applications that solve real-world problems.
 
-🌱 Currently learning
+ Currently learning
 - Data Structures & Algorithms
 - System Design
 - Advanced AI Agents
@@ -27,7 +27,7 @@ Building AI applications with LLMs, RAG, LangChain, and Python.
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -54,10 +54,10 @@ Git • GitHub • Streamlit • Neo4j
 ### 🩺 Medical RAG Chatbot
 > Privacy-first AI medical assistant using Local LLM + FAISS + LangChain
 
-⭐ Local inference with Llama-2
-⭐ Semantic Search
-⭐ Offline deployment
-⭐ Streamlit Interface
+- Local inference with Llama-2
+- Semantic Search
+- Offline deployment
+- Streamlit Interface
 
 ---
 
@@ -102,15 +102,15 @@ Generate realistic interview questions using LLMs.
 
 ## 🏆 Achievements
 
-🥇 1st Place — Hack-It-Out Hackathon, IIM Indore
+ 1st Place — Hack-It-Out Hackathon, IIM Indore
 
-🏅 Finalist — Eco Hackathon, IIT BHU
+ Finalist — Eco Hackathon, IIT BHU
 
-🥉 2nd Runner-up — Website Hackathon, IIIT Nagpur
+ 2nd Runner-up — Website Hackathon, IIIT Nagpur
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 📧 anveeksha15@gmail.com
 
@@ -122,4 +122,4 @@ https://github.com/Anveeksha15
 
 ---
 
-⭐ *"Always learning. Always building."*
+ *"Always learning. Always building :)"*
