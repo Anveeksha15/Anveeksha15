@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anveeksha Jangid</h1>
-<h3 align="center">AI Engineer • LLM Developer • Undergraduate at IIIT Nagpur</h3>
+<h3 align="center">AI Engineer • Undergraduate at IIIT Nagpur</h3>
 
 <p align="center">
 Building AI applications with LLMs, RAG, LangChain, and Python.
