@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Anveeksha Jangid</h1>
+<h1 align="center">Hii, I'm Anveeksha Jangid</h1>
 <h3 align="center">AI Engineer • Undergraduate at IIIT Nagpur</h3>
 
 <p align="center">
