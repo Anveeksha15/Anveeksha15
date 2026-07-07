@@ -47,58 +47,6 @@ Pandas • NumPy • Matplotlib • Seaborn
 
 Git • GitHub • Streamlit • Neo4j
 
----
-
-# Featured Projects
-
-### 🩺 Medical RAG Chatbot
-> Privacy-first AI medical assistant using Local LLM + FAISS + LangChain
-
-- Local inference with Llama-2
-- Semantic Search
-- Offline deployment
-- Streamlit Interface
-
----
-
-### ✈️ Travel Buddy
-
-AI-powered travel planner using LangChain and Amadeus API
-
-- Smart itinerary generation
-- Budget prediction
-- Weather integration
-
----
-
-### 🎤 AI Interview Preparation Assistant
-
-Generate realistic interview questions using LLMs.
-
-- 50+ domains
-- Prompt Engineering
-- Adaptive Difficulty
-
----
-
-## 💼 Experience
-
-### AI Intern — MANA AI
-
-- Built LLM Agent Pipelines
-- Caching-Augmented Generation
-- Redis Integration
-- Hallucination Mitigation
-- Streaming Responses
-
-### Generative AI Intern — Pitch Desk
-
-- Evaluation Engine API
-- OpenAI API
-- STT/TTS Research
-- AI VC Personas
-
----
 
 ## 🏆 Achievements
 
@@ -114,12 +62,5 @@ Generate realistic interview questions using LLMs.
 
 📧 anveeksha15@gmail.com
 
-💼 LinkedIn:
-https://linkedin.com/in/Anveeksha15
-
-🐙 GitHub:
-https://github.com/Anveeksha15
-
----
 
  *"Always learning. Always building :)"*
