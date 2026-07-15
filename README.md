@@ -56,11 +56,7 @@ Git • GitHub • Streamlit • Neo4j
 
  2nd Runner-up — Website Hackathon, IIIT Nagpur
  
----
 
-##  Connect With Me
-
-📧 anveeksha15@gmail.com
 
 
  *"Always learning. Always building :)"*
